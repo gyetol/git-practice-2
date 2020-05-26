@@ -1,1 +1,4 @@
-public class D{}
+public class D {
+	private int num;
+	private String name;
+}
