@@ -1,1 +1,5 @@
-public class D{}
+public class D{
+	public static void main(String[] args){
+		return;
+	}
+}
